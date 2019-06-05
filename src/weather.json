@@ -1,0 +1,4 @@
+[
+  { "day": "Mon", "temp": { "high": 85, "low": 65 } },
+  { "day": "Tues", "temp": { "high": 81, "low": 63 } }
+]
